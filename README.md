@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Coder-Aryan09 , a tech enthusiast 
-- 👀 I’m interested in 
+- 👋 Hi, I’m @Coder-Aryan09 , a tech enthusiast .
+- 👀 I’m interested in exploring new technologies and opportunities to help in gaining experience and collaborative qualities.
 - 🌱 I’m currently learning C++/Python.
 - 💞️ I’m looking to collaborate on projects on C++/Java.
 - 📫 How to reach me whatsapp @9453782134
