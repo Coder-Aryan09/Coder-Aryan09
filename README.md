@@ -3,7 +3,7 @@
 - 🌱 I’m currently comfortable in C++/Java , web development technologies.
 - 💞️ I’m looking to collaborate on projects on C++/Java.
 - 📫 How to reach me: Whatsapp @9453782134
-- 😄 Pronouns: HE/HIM
+- 😄 Bonus: Management skills.
 - ⚡ Fun fact: 90% people don't have patience to read this profile till here. 
 
 <!---
