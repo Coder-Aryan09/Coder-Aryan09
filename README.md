@@ -11,7 +11,8 @@
 - 🌱 Learning **MERN Stack (MongoDB, Express.js, React, Node.js)**
 - 💻 Strong foundation in **C++ (DSA & Problem Solving)**
 - 🌐 Skilled in **HTML, CSS, JavaScript** for web development
-- 📚 Exploring **Computer Vision & Emerging Tech**
+- 🌐 Learning **MERN Stack** for web development
+- 📚 Exploring **GenAI & Emerging Tech**
 
 ---
 
