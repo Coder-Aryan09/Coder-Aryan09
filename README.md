@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coder-Aryan09 , a tech enthusiast .
+<h1>- 👋 Hi, I’m @Coder-Aryan09 , a tech enthusiast .<h1>
 - 👀 I’m interested in exploring new technologies and opportunities to help in gaining experience and collaborative qualities.
 - 🌱 I’m currently comfortable in C++/Java , web development technologies.
 - 💞️ I’m looking to collaborate on projects on C++/Java.
