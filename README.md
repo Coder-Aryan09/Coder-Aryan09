@@ -12,9 +12,9 @@
 ### 🚀 About Me
 - 🎓 Pursuing **Engineering in India**  
 - 💻 Passionate about **C++ | Web Development | Problem Solving**  
-- 🌱 Currently learning **Data Structures & Algorithms + Computer Vision**  
-- 🧑‍🤝‍🧑 Building a **Tech Community** for passionate learners  
-- 💪 Big fan of **Roman Reigns’ aura & dominance in WWE**
+- 🌱 Currently sharpening **Data Structures & Algorithms + GenAI**  
+- 🧑‍🤝‍🧑 Learning MERN Stack **🤯** 
+- 💪 Competitive Programmer - **Loves solving problems in a clean and efficient manner**
 
 ---
 
@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Coder-Aryan09&show_icons=true&theme=tokyonight" alt="stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Aryan09&theme=tokyonight" alt="streak" height="165" />
 </p>
 
 ---
