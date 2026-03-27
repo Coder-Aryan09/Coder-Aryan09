@@ -2,16 +2,16 @@
 <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Earth.gif" width="24px">
 </h1>
 <h3 align="center">Aspiring Software Engineer | Problem Solver | Tech Enthusiast
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Engineer+%7C+Coder+%7C+Learner;Competitive+Programmer;Loves+C%2B%2B+%26+Web+Dev;Consistency+King+%F0%9F%8F%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Engineer+%7C+Coder+%7C+Learner;Competitive+Programmer;C%2B%2B+%26+Web+Dev;Consistency+%F0%9F%8F%88" alt="Typing SVG" />
 </h3>
 
 ---
 
 ### 🚀 Current Focus
-- 🌱 Learning **MERN Stack (MongoDB, Express.js, React, Node.js)**
+- 🌱 Mastering **MERN Stack (MongoDB, Express.js, React, Node.js)**
 - 💻 Strong foundation in **C++ (DSA & Problem Solving)**
-- 🌐 Skilled in **HTML, CSS, JavaScript** for web development
-- 📚 Exploring **GenAI & Emerging Tech**
+- 🌐 Skilled in **React.js** for frontend development
+- 📚 Exploring **GenAI using LangChain & LangGraph**
 
 ---
 
