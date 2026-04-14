@@ -11,7 +11,7 @@
 - 🌱 Mastering **MERN Stack (MongoDB, Express.js, React, Node.js)**
 - 💻 Strong foundation in **C++ (DSA & Problem Solving)**
 - 🌐 Skilled in **React.js** for frontend development
-- 📚 Exploring **GenAI using LangChain & LangGraph**
+- 📚 Exploring **AgenticAI using LangChain & LangGraph**
 
 ---
 
