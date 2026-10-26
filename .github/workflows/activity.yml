@@ -1,29 +1,20 @@
-name: Automated Contribution Activity
+
+name: Update Activity Graph
 
 on:
   schedule:
-    # Triggers every day at 12:00 PM UTC (Adjust as needed)
-    - cron: '0 12 * * *'
-  workflow_dispatch: # Allows you to trigger it manually for testing
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-activity:
+  activity-graph:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Crucial for allowing the action to commit back to the repo
-    
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Make a Change
-        run: |
-          echo "Last active on: $(date)" > activity.txt
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add activity.txt
-          git commit -m "chore: update contribution activity [skip ci]" || echo "No changes to commit"
-          git push
+      - name: Generate activity graph
+        uses: alexcerezo/activity-graph@v1
