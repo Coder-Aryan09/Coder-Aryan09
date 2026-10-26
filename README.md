@@ -241,11 +241,12 @@ Competitive programming is one of the ways I continuously improve my problem-sol
 
 ---
 
+
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Aryan09&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+
+<!-- END ACTIVITY-GRAPH -->
 
 ---
 
