@@ -245,7 +245,10 @@ Competitive programming is one of the ways I continuously improve my problem-sol
 ## 📈 Contribution Activity
 
 <!-- BEGIN ACTIVITY-GRAPH -->
-
+<picture>
+  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
+  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
+</picture>
 <!-- END ACTIVITY-GRAPH -->
 
 ---
