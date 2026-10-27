@@ -320,7 +320,7 @@ Problem Solving
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/aryan-singh-661819286/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -332,7 +332,7 @@ Problem Solving
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:aryansingh9c@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
