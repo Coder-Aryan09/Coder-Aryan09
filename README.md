@@ -25,7 +25,7 @@ I'm a **3rd-year B.Tech engineering student** focused on building real-world sof
 * 🤖 **AI Engineering:** LLMs • RAG • LangGraph • Agentic AI • Vector Databases
 * ☁️ **Engineering:** Docker • Kubernetes • AWS • CI/CD
 * 🏗️ Currently building systems around **AI agents, full-stack applications and distributed backend architectures**
-* 🧠 Solved **500+ programming problems**
+* 🧠 Solved **2000+ programming problems** across all platforms
 * 🔥 Maintained long-term competitive programming streaks
 * 🏆 Participated in hackathons and engineering competitions
 * 🎯 Currently working toward becoming a stronger **Software Engineer / Backend & AI Engineer**
